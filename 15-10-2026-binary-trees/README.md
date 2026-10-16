@@ -16,16 +16,3 @@ Date: 2026-10-15
 
 n = number of nodes, h = height of the tree, m = size of the small tree in 572.
 
-## Notes
-
-- 572 reuses the solution of 100 at every node.
-- 102 uses a queue, so the size is fixed before the loop to keep levels separate.
-- 105 can be made O(n) with a lookup table instead of scanning inorder.
-- 297 uses N for empty nodes so the shape is saved, and commas so 12 is not read as 1 and 2.
-
-## Run
-
-```bash
-javac *.java
-java InvertTree
-```
