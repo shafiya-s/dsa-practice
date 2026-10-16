@@ -10,7 +10,8 @@ I'm a college student learning Data Structures and Algorithms in Java. I started
 
 | Day | Date | Topic | Problems | Report |
 |-----|------|-------|----------|--------|
-| 1 | 2026-10-15 | Binary Trees | 226, 104, 100, 572, 102, 105, 297 | [Day 1 report](./2026-10-15_binary-trees/README.md) |
+| 1 | 2026-10-15 | Binary Trees | 226, 104, 100, 572, 102, 105, 297 | [Day 1 report](./15-10-2026-binary-trees/README.md) |
+| 2	| 2026-10-16 |	Binary Trees, BST, Trie	|124, 98, 230, 235, 208 | [Day 2 report](./16-10-2026-non-linear/README.md) |
 
 <!-- New row for each day goes above this line -->
 
