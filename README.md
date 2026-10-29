@@ -35,3 +35,18 @@ I'm a college student learning Data Structures and Algorithms in Java. I started
 ## My Approach
 
 I solve each problem in Java and write a short note on how it works and its time and space complexity.
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0647-palindromic-substrings](https://github.com/shafiya-s/dsa-practice/tree/main/0647-palindromic-substrings/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0647-palindromic-substrings](https://github.com/shafiya-s/dsa-practice/tree/main/0647-palindromic-substrings/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0647-palindromic-substrings](https://github.com/shafiya-s/dsa-practice/tree/main/0647-palindromic-substrings/) | Medium |
+<!---LeetCode Topics End-->
