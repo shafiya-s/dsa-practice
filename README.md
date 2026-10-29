@@ -36,9 +36,18 @@ From Day 14 onwards I'm using the LeetHub extension to push my solutions. Whenev
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/shafiya-s/dsa-practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0647-palindromic-substrings](https://github.com/shafiya-s/dsa-practice/tree/main/0647-palindromic-substrings/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0647-palindromic-substrings](https://github.com/shafiya-s/dsa-practice/tree/main/0647-palindromic-substrings/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/shafiya-s/dsa-practice/tree/main/0076-minimum-window-substring/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/shafiya-s/dsa-practice/tree/main/0076-minimum-window-substring/) | Hard |
 <!---LeetCode Topics End-->
