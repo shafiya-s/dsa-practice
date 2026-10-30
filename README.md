@@ -48,6 +48,7 @@ From Day 14 onwards I'm using the LeetHub extension to push my solutions. Whenev
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/shafiya-s/dsa-practice/tree/main/0076-minimum-window-substring/) | Hard |
+| [0217-contains-duplicate](https://github.com/shafiya-s/dsa-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shafiya-s/dsa-practice/tree/main/0242-valid-anagram/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -72,11 +73,13 @@ From Day 14 onwards I'm using the LeetHub extension to push my solutions. Whenev
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/shafiya-s/dsa-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shafiya-s/dsa-practice/tree/main/0242-valid-anagram/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/shafiya-s/dsa-practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0217-contains-duplicate](https://github.com/shafiya-s/dsa-practice/tree/main/0217-contains-duplicate/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
