@@ -37,6 +37,7 @@ From Day 14 onwards I'm using the LeetHub extension to push my solutions. Whenev
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/shafiya-s/dsa-practice/tree/main/0076-minimum-window-substring/) | Hard |
+| [0242-valid-anagram](https://github.com/shafiya-s/dsa-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0647-palindromic-substrings](https://github.com/shafiya-s/dsa-practice/tree/main/0647-palindromic-substrings/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -46,6 +47,7 @@ From Day 14 onwards I'm using the LeetHub extension to push my solutions. Whenev
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/shafiya-s/dsa-practice/tree/main/0076-minimum-window-substring/) | Hard |
+| [0242-valid-anagram](https://github.com/shafiya-s/dsa-practice/tree/main/0242-valid-anagram/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,4 +68,8 @@ From Day 14 onwards I'm using the LeetHub extension to push my solutions. Whenev
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shafiya-s/dsa-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/shafiya-s/dsa-practice/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
