@@ -50,4 +50,20 @@ From Day 14 onwards I'm using the LeetHub extension to push my solutions. Whenev
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/shafiya-s/dsa-practice/tree/main/0076-minimum-window-substring/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shafiya-s/dsa-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shafiya-s/dsa-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shafiya-s/dsa-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shafiya-s/dsa-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
