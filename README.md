@@ -43,6 +43,7 @@ From Day 14 onwards I'm using the LeetHub extension to push my solutions. Whenev
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/shafiya-s/dsa-practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/shafiya-s/dsa-practice/tree/main/0055-jump-game/) | Medium |
 | [0647-palindromic-substrings](https://github.com/shafiya-s/dsa-practice/tree/main/0647-palindromic-substrings/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -81,6 +82,7 @@ From Day 14 onwards I'm using the LeetHub extension to push my solutions. Whenev
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/shafiya-s/dsa-practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/shafiya-s/dsa-practice/tree/main/0055-jump-game/) | Medium |
 | [0217-contains-duplicate](https://github.com/shafiya-s/dsa-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/shafiya-s/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Divide and Conquer
@@ -104,4 +106,8 @@ From Day 14 onwards I'm using the LeetHub extension to push my solutions. Whenev
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shafiya-s/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/shafiya-s/dsa-practice/tree/main/0055-jump-game/) | Medium |
 <!---LeetCode Topics End-->
