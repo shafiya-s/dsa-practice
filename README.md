@@ -32,11 +32,13 @@ From Day 14 onwards I'm using the LeetHub extension to push my solutions. Whenev
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/shafiya-s/dsa-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0647-palindromic-substrings](https://github.com/shafiya-s/dsa-practice/tree/main/0647-palindromic-substrings/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/shafiya-s/dsa-practice/tree/main/0076-minimum-window-substring/) | Hard |
+| [0125-valid-palindrome](https://github.com/shafiya-s/dsa-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/shafiya-s/dsa-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0647-palindromic-substrings](https://github.com/shafiya-s/dsa-practice/tree/main/0647-palindromic-substrings/) | Medium |
 ## Dynamic Programming
