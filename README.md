@@ -40,6 +40,7 @@ From Day 14 onwards I'm using the LeetHub extension to push my solutions. Whenev
 | [0076-minimum-window-substring](https://github.com/shafiya-s/dsa-practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/shafiya-s/dsa-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/shafiya-s/dsa-practice/tree/main/0242-valid-anagram/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/shafiya-s/dsa-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0647-palindromic-substrings](https://github.com/shafiya-s/dsa-practice/tree/main/0647-palindromic-substrings/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -54,10 +55,12 @@ From Day 14 onwards I'm using the LeetHub extension to push my solutions. Whenev
 | [0217-contains-duplicate](https://github.com/shafiya-s/dsa-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shafiya-s/dsa-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/shafiya-s/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/shafiya-s/dsa-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/shafiya-s/dsa-practice/tree/main/0076-minimum-window-substring/) | Hard |
+| [0424-longest-repeating-character-replacement](https://github.com/shafiya-s/dsa-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
