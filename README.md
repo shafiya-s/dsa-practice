@@ -37,6 +37,7 @@ From Day 14 onwards I'm using the LeetHub extension to push my solutions. Whenev
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shafiya-s/dsa-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/shafiya-s/dsa-practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/shafiya-s/dsa-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/shafiya-s/dsa-practice/tree/main/0242-valid-anagram/) | Easy |
@@ -51,6 +52,7 @@ From Day 14 onwards I'm using the LeetHub extension to push my solutions. Whenev
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shafiya-s/dsa-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/shafiya-s/dsa-practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0217-contains-duplicate](https://github.com/shafiya-s/dsa-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shafiya-s/dsa-practice/tree/main/0242-valid-anagram/) | Easy |
@@ -59,6 +61,7 @@ From Day 14 onwards I'm using the LeetHub extension to push my solutions. Whenev
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shafiya-s/dsa-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/shafiya-s/dsa-practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/shafiya-s/dsa-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Tree
