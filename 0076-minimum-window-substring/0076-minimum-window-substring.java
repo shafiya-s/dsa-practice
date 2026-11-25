@@ -1,33 +1,28 @@
 class Solution {
     public String minWindow(String s, String t) {
-        if (t.length() > s.length()) return "";
-
-        int[] need = new int[128];            
-        for (char c : t.toCharArray()) need[c]++;
-
-        int missing = t.length();               
-        int left = 0;
-        int bestStart = 0;
-        int bestLen = Integer.MAX_VALUE;
-
-        for (int right = 0; right < s.length(); right++) {
-            char c = s.charAt(right);
-            if (need[c] > 0) missing--;        
-            need[c]--;                          
-
-            while (missing == 0) {              
-                int size = right - left + 1;
-                if (size < bestLen) {
-                    bestLen = size;
-                    bestStart = left;
+        int[] smap=new int[256];
+        int[] tmap=new int[256];
+        for(int i=0;i<t.length();i++) tmap[t.charAt(i)]++;
+        int l=0,r=0,minl=Integer.MAX_VALUE,start=0;
+        for(r=0;r<s.length();r++){
+            smap[s.charAt(r)]++;
+            while(contains(smap,tmap)){
+                if(r-l+1 < minl){
+                    minl=r-l+1;
+                    start=l;
                 }
-
-                char l = s.charAt(left);
-                need[l]++;                    
-                if (need[l] > 0) missing++;     
-                left++;
+                smap[s.charAt(l)]--;
+                l++;
             }
         }
-        return bestLen == Integer.MAX_VALUE ? "" : s.substring(bestStart, bestStart + bestLen);
+        return minl==Integer.MAX_VALUE?"":s.substring(start,start+minl);
+    }
+
+    public static boolean contains(int []smap,int[] tmap){
+        for(int i=0;i<256;i++){
+            if(smap[i]<tmap[i])
+                return false;
+        }
+        return true;
     }
 }
